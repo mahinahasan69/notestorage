@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MADT Notes Hub</string>
+    <string name="title_hint">Note Title</string>
+    <string name="content_hint">Note Content / Code</string>
+    <string name="save_btn">✨ Save Note to %1$s</string>
+    <string name="update_btn">✏️ Update Note</string>
+    <string name="sync_btn">Sync</string>
+    <string name="sqlite_chip">🗄️ SQLite</string>
+    <string name="json_chip">📄 JSON File</string>
+    <string name="empty_error">⚠️ Title and content cannot be empty!</string>
+    <string name="saved_notes_header">📚 Saved Notes (%1$d)</string>
+    <string name="edit_btn">✏️ Edit</string>
+    <string name="delete_btn">🗑️ Delete</string>
+    <string name="menu_snippet">Insert Comment Snippet</string>
+    <string name="menu_clear">Clear Inputs</string>
+    <string name="dialog_storage">Storage Method: %1$s</string>
+    <string name="dialog_close">Close</string>
+</resources>
