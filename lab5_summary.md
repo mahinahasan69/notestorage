@@ -4,7 +4,6 @@ Name: Md Mahin Ahasan
 
 Student ID / University: Vilnius University Kaunas Faculty
 
-GitHub Repository: https://github.com/mahinahasan69/notestorage.git
 
 Session Summaries (<@ListOfsessions>)
 Code Generation Session (/grill-me)
@@ -28,5 +27,3 @@ User Input: Guided the creation of a professional, detailed README.md outlining 
 GitHub Interaction & Deployment Session
 
 Goal: Perform Git initialization, branch configuration, and push operations to publish the project publicly.
-
-User Input: Resolved authentication caching, handled remote branch merging, and successfully executed final pushes to publish the repository for Moodle submission.
